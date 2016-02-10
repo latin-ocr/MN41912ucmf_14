@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41912ucmf_14_0003.png"; bbox 0 0 2321 3290; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 27 227 461 336">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 27 227 461 336">
+     <span class='ocr_line' id='line_1_1' title="bbox 27 227 461 336; baseline 0.014 -6"><span class='ocrx_word' id='word_1_1' title='bbox 27 227 300 333; x_wconf 85' lang='lat' dir='ltr'><strong>FILMED</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 322 230 461 336; x_wconf 81' lang='lat'>2001</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 627 754 935">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 627 754 935">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 627 754 743; baseline 0.016 -12"><span class='ocrx_word' id='word_1_3' title='bbox 0 627 409 738; x_wconf 75' lang='lat' dir='ltr'>·FCH1CAGO</span> <span class='ocrx_word' id='word_1_4' title='bbox 431 634 754 743; x_wconf 83' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 24 804 456 935; baseline 0.014 -25"><span class='ocrx_word' id='word_1_5' title='bbox 24 804 143 935; x_wconf 78' lang='lat' dir='ltr'><strong>GO,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 167 809 234 912; x_wconf 89' lang='lat' dir='ltr'><strong>IL</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 275 809 456 916; x_wconf 82' lang='lat'>60637</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 4 1383 711 1498">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 4 1383 711 1498">
+     <span class='ocr_line' id='line_1_4' title="bbox 4 1383 711 1498; baseline 0.017 -14"><span class='ocrx_word' id='word_1_8' title='bbox 4 1387 21 1431; x_wconf 87' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 84 1383 377 1492; x_wconf 84' lang='lat' dir='ltr'>LIGIONS</span> <span class='ocrx_word' id='word_1_10' title='bbox 400 1388 711 1498; x_wconf 88' lang='lat' dir='ltr'>PROJECT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 21 1847 964 2083">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 1847 964 2083">
+     <span class='ocr_line' id='line_1_5' title="bbox 21 1847 964 2083; baseline 0.026 -24.455"><span class='ocrx_word' id='word_1_11' title='bbox 21 1847 327 2069; x_wconf 50' lang='lat' dir='ltr'>dEedffinffieR</span> <span class='ocrx_word' id='word_1_12' title='bbox 347 1966 487 2072; x_wconf 88' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 508 1969 964 2083; x_wconf 84' lang='lat' dir='ltr'>HUMANITIES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1162 3290">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1162 3290">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1162 3290; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1162 3290; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
